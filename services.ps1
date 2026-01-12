@@ -7,7 +7,7 @@ if (-not $isAdmin) {
     exit
 }
 
-Write-Host "Impulse ScreenShare Team - Made by Lily" -ForegroundColor Cyan
+Write-Host "Impulse ScreenShare Team - Made by Lily (Edited by 2020)" -ForegroundColor Cyan
 Write-Host ""
 
 Write-Host "`nSERVICE STATUS" -ForegroundColor Cyan
